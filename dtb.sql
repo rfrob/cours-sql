@@ -1,0 +1,2 @@
+-- Active: 1761148460448@@127.0.0.1@3306@studi
+DROP DATABASE cours;
