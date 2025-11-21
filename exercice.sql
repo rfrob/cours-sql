@@ -11,3 +11,4 @@ INSERT INTO Introduction.clients (prenom, nom, email, dateNaissance) VALUES
 ('John', 'Doe', 'john@doe.com', '1987-11-21'),
 ('Sarah', 'Dupont', 'sarahdupont@monmail.com', '1985-01-16'),
 ('Laure', 'Mondi', 'lmondi@mailiam.org', '1992-05-28');
+
